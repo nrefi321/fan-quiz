@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b33a77d684d3edeaa2535eb7ce3be5ee011ec324
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -24,12 +28,19 @@ body {
     radial-gradient(ellipse at 92% 22%, #d7d2ff 0, transparent 30%),
     radial-gradient(ellipse at 50% 100%, #fff0a9 0, transparent 35%),
     #fff9f2;
+<<<<<<< HEAD
   font-family: "Noto Sans Thai", "Sarabun", Tahoma, Arial, sans-serif;
+=======
+  font-family: Arial, "Noto Sans Thai", sans-serif;
+>>>>>>> b33a77d684d3edeaa2535eb7ce3be5ee011ec324
 }
 
 button {
   -webkit-tap-highlight-color: transparent;
+<<<<<<< HEAD
   font-family: inherit;
+=======
+>>>>>>> b33a77d684d3edeaa2535eb7ce3be5ee011ec324
 }
 
 ::selection {
@@ -62,6 +73,7 @@ button {
   box-shadow: 1px 2px 0 #24143b;
 }
 
+<<<<<<< HEAD
 @keyframes wiggle {
   0%, 100% { transform: rotate(-3deg); }
   50% { transform: rotate(3deg); }
@@ -80,6 +92,8 @@ button {
   animation: pop 250ms ease-out both;
 }
 
+=======
+>>>>>>> b33a77d684d3edeaa2535eb7ce3be5ee011ec324
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -89,3 +103,7 @@ button {
     animation-duration: 0.01ms !important;
   }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> b33a77d684d3edeaa2535eb7ce3be5ee011ec324
