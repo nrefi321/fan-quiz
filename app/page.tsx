@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "use client";
 
 import { useRef, useState } from "react";
@@ -289,6 +288,3 @@ export default function Home() {
     </main>
   );
 }
-=======
-
->>>>>>> b33a77d684d3edeaa2535eb7ce3be5ee011ec324
